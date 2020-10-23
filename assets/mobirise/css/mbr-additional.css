@@ -1238,6 +1238,22 @@ a {
 .cid-sdhRolZ8LA img {
   width: 100%;
 }
+.cid-seg7aeIHWI {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-seg7aeIHWI .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-seg7aeIHWI .row {
+  flex-direction: row-reverse;
+}
+.cid-seg7aeIHWI img {
+  width: 100%;
+}
 .cid-sd9udkPXW6 {
   padding-top: 0px;
   padding-bottom: 0px;
